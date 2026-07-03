@@ -54,9 +54,10 @@ These KPIs provide a quick overview of overall business performance.
 ### Filter Panel
 
 Interactive slicers allow users to filter the dashboard by:
-* Outlet Location Type
-* Outlet Size
-* Item Type
+- Outlet Location Type
+- Outlet Size
+- Item Type
+  
 All visuals update dynamically based on the selected filters.
 
 ### Outlet Establishment Trend (Line Chart)
