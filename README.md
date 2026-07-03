@@ -159,4 +159,5 @@ This visual offers a comprehensive performance summary for all outlet formats.
 ---
 
 # Screenshot
+https://github.com/Somya-2611/BlinkIt-Dashboard/blob/main/Snapshot%20Of%20Dashboard.png
 
