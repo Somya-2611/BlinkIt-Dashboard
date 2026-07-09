@@ -8,10 +8,16 @@ Users can explore data by outlet location, outlet size, and item type to gain va
 
 ### Tech Stack
 
-The dashboard was built using the following tools and technologies:
-- 📊 **Power BI Desktop** – Main data visualization platform used for report creation.
-- 📂 **Power Query** – Data transformation and cleaning layer for reshaping and preparing the data.
-- 🧠 **DAX (Data Analysis Expressions)** – Used for calculated measures, dynamic visuals, and conditional logic.
+This project was developed using the following technologies:
+- 🐍 **Python** – Data cleaning, preprocessing, exploratory data analysis (EDA), and visualization.
+- 🗄️ **SQL (PostgreSQL)** – Business queries, KPI generation, and analytical reporting.
+- 📊 **Microsoft Excel** – Data analysis, Pivot Tables, Pivot Charts, and interactive dashboard creation.
+- 📈 **Power BI Desktop** – Interactive business intelligence dashboard.
+- 📂 **Power Query** – Data transformation and preparation.
+- 🧠 **DAX (Data Analysis Expressions)** – Calculated measures and dynamic visualizations.
+- 📚 **Pandas, NumPy** – Data manipulation and analysis.
+- 📉 **Matplotlib & Seaborn** – Statistical data visualization.
+  
 
 # Features / Highlights
 
@@ -29,16 +35,63 @@ Key business questions such as:
 
 ...are difficult to answer efficiently without an interactive analytical dashboard.
 
-## Goal of the Dashboard
+## Goal of the Project
 
-To provide an interactive business intelligence dashboard that:
+The objective of this project is to build a comprehensive retail analytics solution that:
 
-* Enables users to monitor overall sales performance through key business KPIs.
-* Helps compare sales across outlet locations, outlet sizes, and outlet types.
-* Identifies top-performing product categories and customer preferences.
-* Supports data-driven business decisions using interactive filters and visual analytics.
+- Performs data cleaning and preprocessing.
+- Extracts business insights using SQL.
+- Conducts exploratory data analysis using Python.
+- Builds an interactive Excel dashboard.
+- Develops a professional Power BI dashboard.
+- Supports data-driven business decision making.
 
-## Walkthrough of Key Visuals
+# 📊 Project Components
+
+## Python Analysis
+
+Performed comprehensive Exploratory Data Analysis (EDA) including:
+
+- Data cleaning and preprocessing
+- Missing value handling
+- Data type conversion
+- Descriptive statistics
+- Sales distribution analysis
+- Product category analysis
+- Outlet performance analysis
+- Customer rating analysis
+- Correlation analysis
+- Data visualization using Matplotlib and Seaborn
+
+##  SQL Analysis
+
+Used PostgreSQL to answer key business questions through SQL queries such as:
+
+- Total Sales, Average Sales, Average Rating, Total no of items
+- Sales by Item Type
+- Sales by Outlet Size
+- Sales by Outlet Location
+- Sales by Outlet Type
+- Fat Content Analysis
+- Top Performing Categories
+- Year-wise Outlet Performance
+
+##  Excel Dashboard
+
+Built an interactive Excel dashboard using:
+
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- KPI Cards
+- Dynamic Charts
+- Conditional Formatting
+
+The dashboard enables users to interactively analyze sales performance across multiple business dimensions.
+
+## 📈 Power BI Dashboard
+
+### Walkthrough of Key Visuals
 
 ### KPI Cards (Top Left)
 
